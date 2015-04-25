@@ -3,5 +3,5 @@ hello <- function(name){
 }
 
 goodbye <- function () {
-	return "goodbye";
+	return ("goodbye");
 }

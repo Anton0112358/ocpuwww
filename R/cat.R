@@ -1,3 +1,3 @@
 xxx <- function () {
-	return "Hi";	
+	return ("Hi");	
 }
